@@ -1,1 +1,9 @@
-hugsuu s
+On Maven installed Server
+
+git clone <clone URL>
+
+If git in not install 
+  yum install git -y
+  
+cd <in to the project file>
+mvn install 
